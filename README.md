@@ -16,4 +16,4 @@
 [4.pdf](https://github.com/TomasFanta/School/files/10891396/4.pdf)
 5. attachment
 * Related to Cloud BI, data: extraction, matching, pairing and visualization in Tableau public
-https://public.tableau.com/app/profile/eli.ka.brychtov./viz/CloudBI_TSLA/Story1
+[5.pdf](https://github.com/TomasFanta/School/files/10892231/5.pdf)
