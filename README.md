@@ -5,6 +5,9 @@
 2. attachment
 * Related to Database subject
 [2.pdf](https://github.com/TomasFanta/School/files/10891389/2.pdf)
+
+		Practical part involved designing a database to record races, jockeys and their horses. The result of this work was a well-functioning relational database loaded with data including its documentation.
+
 3. attachment
 * Related to Advanced analytics and prediction of bank records
 [3.pdf](https://github.com/TomasFanta/School/files/10891395/3.pdf)
