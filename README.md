@@ -3,7 +3,7 @@
 * About my bachelor's thesis
 [1.pdf](https://github.com/TomasFanta/School/files/10891384/1.pdf)
 2. attachment
-* Related to Databases subject
+* Related to Database subject
 [2.pdf](https://github.com/TomasFanta/School/files/10891389/2.pdf)
 3. attachment
 * Related to Advanced analytics and prediction of bank records
