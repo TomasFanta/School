@@ -10,10 +10,10 @@
 
 3. attachment
 * Related to Advanced analytics and prediction of bank records
-[3.pdf](https://github.com/TomasFanta/School/files/10891395/3.pdf)
+[AAPB.pdf](https://github.com/TomasFanta/School/files/10891395/3.pdf)
 4. attachment
 * Related to SSBI, vizualization in Tableau public
-[4.pdf](https://github.com/TomasFanta/School/files/10891396/4.pdf)
+  [SSBI.pdf](https://github.com/TomasFanta/School/files/10891396/4.pdf)
 5. attachment
 * Related to Cloud BI, data: extraction, manipulation, matching/ pairing and visualization in Tableau public
-[5.pdf](https://github.com/TomasFanta/School/files/10892231/5.pdf)
+  [CloudBI.pdf](https://github.com/TomasFanta/School/files/10892231/5.pdf)
