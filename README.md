@@ -1,10 +1,10 @@
 # School
 1. attachment
 * About my bachelor's thesis
-[1.pdf](https://github.com/TomasFanta/School/files/10891384/1.pdf)
+[BachelorThesis.pdf](https://github.com/TomasFanta/School/files/10891384/1.pdf)
 2. attachment
 * Related to Database subject
-[2.pdf](https://github.com/TomasFanta/School/files/10891389/2.pdf)
+  [RaceDatabase.pdf](https://github.com/TomasFanta/School/files/10891389/2.pdf)
 
 		Practical part involved designing a database to record races, jockeys and their horses. The result of this work was a well-functioning relational database loaded with data including its documentation.
 
